@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T04:32:46.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pIv1_5aLbOWv4kDoLNI4" version="24.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-25T06:49:25.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="IgnRwlfy_Fatl9VoSo-N" version="24.2.5" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1411" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1605" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="906hW7KmR7PjZ_wDBqUE-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="690" width="660" height="430" as="geometry" />
+          <mxGeometry x="220" y="730" width="660" height="390" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="690" width="660" height="130" as="geometry" />
+          <mxGeometry x="220" y="730" width="660" height="90" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="670" width="660" height="430" as="geometry" />
@@ -19,14 +19,11 @@
         <mxCell id="906hW7KmR7PjZ_wDBqUE-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="950" width="660" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-76" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;后端&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="531" y="690" width="126" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-95" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据分析层&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="830" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-66" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="30" width="1530" height="570" as="geometry" />
+          <mxGeometry x="-40" y="30" width="1530" height="950" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-68" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;基于Flask的前后端分离架构&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
           <mxGeometry x="550" width="470" height="60" as="geometry" />
@@ -55,10 +52,22 @@
         <mxCell id="906hW7KmR7PjZ_wDBqUE-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="906hW7KmR7PjZ_wDBqUE-66" source="906hW7KmR7PjZ_wDBqUE-78" target="906hW7KmR7PjZ_wDBqUE-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-78" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; -webkit-font-smoothing: antialiased; box-sizing: border-box; color: rgb(46, 50, 56); font-family: &amp;quot;SF Pro Display&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(247, 247, 250);&quot;&gt;网页下载器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-78" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; -webkit-font-smoothing: antialiased; box-sizing: border-box; color: rgb(46, 50, 56); text-align: left; background-color: rgb(247, 247, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;网页下载器&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
           <mxGeometry x="490" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="906hW7KmR7PjZ_wDBqUE-66" source="906hW7KmR7PjZ_wDBqUE-79" target="906hW7KmR7PjZ_wDBqUE-77" edge="1">
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="906hW7KmR7PjZ_wDBqUE-66" source="906hW7KmR7PjZ_wDBqUE-79" target="906hW7KmR7PjZ_wDBqUE-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-81" value="" style="swimlane;startSize=0;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
+          <mxGeometry x="460" y="950" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-77" value="URL管理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-81" vertex="1">
+          <mxGeometry x="30" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-79" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; -webkit-font-smoothing: antialiased; box-sizing: border-box; color: rgb(46, 50, 56); text-align: left; background-color: rgb(247, 247, 250);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;网页数据解析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-81" vertex="1">
+          <mxGeometry x="150" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-88" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="906hW7KmR7PjZ_wDBqUE-81" source="906hW7KmR7PjZ_wDBqUE-79" target="906hW7KmR7PjZ_wDBqUE-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-238" value="&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="906hW7KmR7PjZ_wDBqUE-88" vertex="1" connectable="0">
@@ -80,18 +89,6 @@
           <mxGeometry x="0.3135" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-79" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; -webkit-font-smoothing: antialiased; box-sizing: border-box; color: rgb(46, 50, 56); font-family: &amp;quot;SF Pro Display&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(247, 247, 250);&quot;&gt;网页数据解析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
-          <mxGeometry x="610" y="990" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="906hW7KmR7PjZ_wDBqUE-66" source="906hW7KmR7PjZ_wDBqUE-79" target="906hW7KmR7PjZ_wDBqUE-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-81" value="" style="swimlane;startSize=0;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
-          <mxGeometry x="460" y="950" width="280" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-77" value="URL管理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-81" vertex="1">
-          <mxGeometry x="30" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-82" value="数据获取" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
           <mxGeometry x="780" y="985" width="100" height="50" as="geometry" />
@@ -125,17 +122,8 @@
             <mxRectangle x="200" y="130" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-125" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;情感分布直方图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-184" vertex="1">
-          <mxGeometry x="40" y="27.5" width="90" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-210" value="微观" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="906hW7KmR7PjZ_wDBqUE-184" vertex="1">
           <mxGeometry x="-10" y="20" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-126" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;评论词云图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-184" vertex="1">
-          <mxGeometry x="45" y="50" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="906hW7KmR7PjZ_wDBqUE-123" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;评论占比图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-184" vertex="1">
-          <mxGeometry x="55" y="10" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-202" value="" style="swimlane;startSize=0;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
           <mxGeometry x="630" y="705" width="170" height="75" as="geometry">
@@ -160,6 +148,15 @@
         <mxCell id="906hW7KmR7PjZ_wDBqUE-213" value="&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;注册登录层&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
           <mxGeometry x="1050" y="672.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-123" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;评论占比图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
+          <mxGeometry x="440" y="715" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-125" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;情感分布直方图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
+          <mxGeometry x="420" y="740" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="906hW7KmR7PjZ_wDBqUE-126" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;评论词云图&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-66" vertex="1">
+          <mxGeometry x="432.5" y="760" width="75" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="906hW7KmR7PjZ_wDBqUE-111" target="906hW7KmR7PjZ_wDBqUE-120" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -174,16 +171,16 @@
           <mxGeometry x="640" y="840" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-113" value="统计分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="870" width="70" height="20" as="geometry" />
+          <mxGeometry x="640" y="865" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-115" value="趋势分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="920" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-120" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="612.5" y="835" width="125" height="120" as="geometry" />
+          <mxGeometry x="610" y="830" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-114" value="情感判断" style="rounded=0;whiteSpace=wrap;html=1;" parent="906hW7KmR7PjZ_wDBqUE-120" vertex="1">
-          <mxGeometry x="27.5" y="60" width="70" height="20" as="geometry" />
+          <mxGeometry x="30" y="60" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="906hW7KmR7PjZ_wDBqUE-212" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="670" width="660" height="40" as="geometry" />
